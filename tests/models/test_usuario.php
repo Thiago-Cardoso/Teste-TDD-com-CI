@@ -1,4 +1,7 @@
 <?php
+	/*
+		Thiago Cardoso
+	*/	
 
 	class Test_Usuario extends CIUnit_TestCase
 	{
